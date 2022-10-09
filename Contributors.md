@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Siddharth Verma] (https://github.com/vsiddharth365)
 - [Wajid Ali Tabassum](https://github.com/wajidalitabassum143)
 -[Saumya Upadhyay](https://github.com/Saumyaup11)
 -[yogesh](https://github.com/yogesh-0911)
